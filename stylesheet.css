@@ -1,0 +1,17 @@
+body {
+    background-color: aquamarine;
+}
+
+.sub-head {
+    color: red;
+    border: 5px solid rebeccapurple;
+    padding: 10px;
+}
+
+#main-header {
+    font-family: courier;
+}
+
+a:hover {
+    color: orange;
+  }
